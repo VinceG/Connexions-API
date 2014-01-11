@@ -3,6 +3,8 @@ Connexions-API
 
 This is a PHP class used to communicate with InHouse Connexions API. inhouseusa.com
 
+###### <a href='http://vadimg.com' target='_blank'>Vincent Gabriel</a> <a href='http://twitter.com/gabrielva' target='blank'>@gabrielva</a>
+
 Installation
 ==============
 
